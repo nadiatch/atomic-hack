@@ -1,0 +1,15 @@
+{
+    "DBType": "MariaDB",
+    "Drivers": [
+        {
+            "Name": "MariaDB",
+            "LIB": "../../../../Drivers/MariaDB/bin/Debug/net9.0/MariaDB.dll",
+            "DBConfig": {
+                "Location": "localhost",
+                "Database": "myapp",
+                "UserName": "db",
+                "Password": "pwd"
+            }
+        }
+    ]
+}
